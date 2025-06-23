@@ -10,8 +10,8 @@
 **Packages:** Pandas, numpy, matplotlib, seaborn and scikitlearn.  
 
 ## Dataset Information
-**Name:** [Extrovert vs Introvert Behavior Data](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data?select=personality_dataset.csv)
-**Source:** Kaggle
+**Name:** [Extrovert vs Introvert Behavior Data](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data?select=personality_dataset.csv)  
+**Source:** Kaggle  
 **Features:**
 1. **Time_spent_Alone**: Hours spent alone daily  
 2. **Stage_fear**: Presence of stage fright
@@ -21,7 +21,7 @@
 6. **Friends_circle_size**: Number of close friends
 7. **Post_frequency**: Social media post frequency
 8. **Personality**: Target variable (Extrovert/Introvert)
-9. 
+
 ## **Process**
 1. EDA and data cleaning
 2. Preprocessing
