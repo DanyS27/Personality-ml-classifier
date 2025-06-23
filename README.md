@@ -14,7 +14,7 @@ This project uses a public Kaggle dataset to build a model that predicts whether
 1. EDA and data cleaning
 2. Preprocessing
 3. Data Modeling
-4. Model Evaluation
+4. Model and Evaluation
 
 ## **Results**
 
