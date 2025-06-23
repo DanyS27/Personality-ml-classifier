@@ -28,9 +28,17 @@
 3. Data Modeling
 4. Model and Evaluation
 
-### Data Cleaning 
+### 1. EDA and Data Cleaning 
+#### Data Cleaning
+This data was very present 2 problmes. The first one is that it have missing values and the second one some of the features had in the incorrect data type.
 
-### EDA
+1. **Missing values:** After identifying the missing values, I set a threshold of 5% based on the total length of the DataFrame. Then, I dropped the missing values from all columns that contained 5% or less missing data. No further action was needed, as all missing values were removed
+2. **Data types:** The numeric data types were transformed to integers
+
+#### EDA
+For the numeric data firts I create some histograms to visualize the distribution and also calculate the correlation for this vairbales. The categorical data was analyzed by creating contingency tables to identify the relationships between the target variable and the rest of categorical variables. Also use some boxplots to identify relationships between the target variable and the numerical variables.
+
+
 
 ### Preprocessing
 
