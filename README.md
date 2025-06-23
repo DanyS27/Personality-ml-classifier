@@ -5,13 +5,9 @@
 * Use a Logistic Regression model to build the classifier.
 
 ## Code and Tools
-**Pyhton version:**
-**Packages:**
-- pandas
-- matplotlib
-- seaborn
-- numpy
-- scikit-learn
+**Pyhton version:** 3.13
+**Environment:** VS Code
+**Packages:** Pandas, numpy, matplotlib, seaborn and scikitlearn.
 
 ## Dataset Information
 
