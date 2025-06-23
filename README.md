@@ -1,14 +1,20 @@
 # Personality-ml-classifier
-This project uses a public Kaggle dataset to build a model that predicts whether a person is extroverted or introverted based on their behavioral responses.
+## Overview
+* Create a machine learning model that based on behavioral data can be used to identify if someone is extorvert or introvert.
+* The data was downloaded from kaggle.
+* Use a Logistic Regression model to build the classifier.
 
-
-## **Tools**
-- python
+## Code and Tools
+**Pyhton version:**
+**Packages:**
 - pandas
 - matplotlib
 - seaborn
 - numpy
 - scikit-learn
+
+## Dataset Information
+
 
 ## **Process**
 1. EDA and data cleaning
@@ -16,7 +22,15 @@ This project uses a public Kaggle dataset to build a model that predicts whether
 3. Data Modeling
 4. Model and Evaluation
 
-## **Results**
+### Data Cleaning 
+
+### EDA
+
+### Preprocessing
+
+### Model Building 
+
+### Model Performance
 
 + **Accuracy:** 0.93
 + **F1-score:** 0.94
