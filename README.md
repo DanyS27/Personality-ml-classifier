@@ -38,7 +38,9 @@ This data was very present 2 problmes. The first one is that it have missing val
 #### EDA
 For the numeric data firts I create some histograms to visualize the distribution and also calculate the correlation for this vairbales. The categorical data was analyzed by creating contingency tables to identify the relationships between the target variable and the rest of categorical variables. Also use some boxplots to identify relationships between the target variable and the numerical variables.
 
+![Histogram](Visualizations/social_event_attendance_hist.png)    ![Boxplot](Visualizations/circle_size_vs_personality.png)
 
+![Correlations](Visualizations/Personlaity_correlation_matriz.png)
 
 ### Preprocessing
 
